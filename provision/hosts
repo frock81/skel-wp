@@ -1,0 +1,2 @@
+[wp_server]
+skel-wp.local ansible_connection=local

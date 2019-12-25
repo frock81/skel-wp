@@ -1,0 +1,6 @@
+.DS_Store
+.vagrant
+*.log
+*vault*
+*.retry
+/provision/roles
